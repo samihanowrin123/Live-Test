@@ -8,7 +8,7 @@ class Student{
   Student(this.name, this.roll);
   displayInfo(){
     print("Name : $name");
-    print("Roll: $roll");
+    print("Roll : $roll");
   }
 
 }
